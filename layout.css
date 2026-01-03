@@ -13,4 +13,10 @@
     background-color: blue;
     width: 200px;
     height: 20vh;
+
+}
+
+.boxMain{
+    display: flex;
+    justify-content: center;
 }
