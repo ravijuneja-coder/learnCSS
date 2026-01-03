@@ -1,6 +1,15 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
 .main{
     background-color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .inner{
     background-color: blue;
+    width: 200px;
+    height: 200px;
 }
