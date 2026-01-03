@@ -19,4 +19,6 @@
 .boxMain{
     display: flex;
     justify-content: center;
+    width: 800px;
+    flex-wrap: wrap;
 }
